@@ -1,0 +1,25 @@
+.ThumbList{
+		display: inline;
+		
+}
+
+.ThumbList li{
+	list-style-type: none;
+	float: left;
+}
+.ThumbList li  img {
+	margin-top: 5px;
+	margin-left: 10px;
+	width: 80px;
+	height: 80px;
+	border:1px solid #eee;
+}
+
+.ThumbList li  img:hover{
+	cursor: pointer;
+}
+#Profile{
+
+	font-size: 16px;
+}
+
